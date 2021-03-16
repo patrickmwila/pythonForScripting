@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+### am still working on this script
 
 import requests
 from bs4 import BeautifulSoup as bs
